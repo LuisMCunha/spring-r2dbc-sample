@@ -1,6 +1,6 @@
 # *Update*: Accessing RDBMS with Spring Data R2dbc
 
-I have published [an article on Medium several monthes ago to introduce Spring Data R2dbc](https://medium.com/@hantsy/reactive-accessing-rdbms-with-spring-data-r2dbc-d6e453f2837e) , but it involved frequently, the R2dbc `DatabaseClient` is move to Spring core framework  as an alternative of Jdbc.
+I have published [an article on Medium several months ago to introduce Spring Data R2dbc](https://medium.com/@hantsy/reactive-accessing-rdbms-with-spring-data-r2dbc-d6e453f2837e) , but it involved frequently, the R2dbc `DatabaseClient` is move to Spring core framework  as an alternative of Jdbc.
 
 This post is an update to the latest Spring 5.3 and Spring Data R2dbc 1.2.
 
